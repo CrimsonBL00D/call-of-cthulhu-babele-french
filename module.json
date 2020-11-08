@@ -5,7 +5,7 @@
   "version": "0.1.1",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.6",
-  "authors": "Thierry DS",
+  "author": "Thierry DS",
   "esmodules": ["babele-register.js"],
   "scripts": [],
   "styles": [],
