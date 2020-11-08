@@ -1,0 +1,24 @@
+{
+  "name": "call-of-cthulhu-7th-babele-fr",
+  "title": "Call of Cthulhu 7th Babele French",
+  "description": "Traduction du systeme Appel de Cthulhu 7th de HavlockV/CoC7-FoundryVTT au mod Babele -  Call of Cthulhu 7th (HavlockV/CoC7-FoundryVTT) traduction francaise utilisant Babele",
+  "version": "0.4.4",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.6",
+  "auteur": "Thierry DS",
+  "esmodules": ["babele-register.js"],
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+
+  "languages": [{
+  	"lang": "fr",
+    "name": "Français",
+    "path": "fr.json"
+  }],
+
+
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
